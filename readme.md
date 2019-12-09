@@ -29,6 +29,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 - [8 Tips for Great Code Reviews](https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html) A few basic rules for a better code review process.
 - [A Zen Manifesto for Effective Code Reviews](https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a) Practical tips for the submitter and the reviewer to make effective code reviews.
+- [Best Practices For Reviewing Code](https://www.codegrip.tech/productivity/best-practices-for-reviewing-code/?utm_source=GitHub&utm_medium=Article&utm_campaign=Automated-Code-Review-Tools) A blog covering the top 4 code reviewing techniques.
 - [Brian Guthrie's Feature Branching Rant](https://twitter.com/bguthrie/status/937750796334174209) Twitter thread on the pros and cons of GitHub's open source first model with regards to "in-company" code review practice.
 - [Building an Inclusive Code Review Culture](https://blog.plaid.com/building-an-inclusive-code-review-culture/) Guidelines to help ensure a collaborative and learning culture
 - [Code Review: Create The Culture, Learn The Best Practices](https://codingsans.com/blog/code-review) Code review tips and best practices from tech leaders.
@@ -70,6 +71,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 ## Tools
 
+- [Codegrip](https://www.codegrip.tech/?utm_source=GitHub&utm_medium=Article&utm_campaign=Automated-Code-Review-Tools) Automated Code Review tool supporting 25+ languages. A One-Stop tool for all your code review needs.
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
